@@ -4,6 +4,6 @@ This repository contains materials, exercises, slides, and code resources for th
 
 ## 📚 Workshops Catalog
 
-| Workshop Topic | Date | Resources | Description |
-| :------------- | :--: | :-------: | :---------- |
-| **TITLE**      | TODO | _LINK TO FOLDER_ | Description of the workshop. |
+| Workshop Topic        | Date       | Resources                                  | Description                              |
+| :-------------------- | :--------: | :----------------------------------------: | :--------------------------------------- |
+| **Databases & MySQL** | 30/10/2026 | [MySQL & DB intro](Databases%20&%20MySQL/) | Basic introduction to Databases & MySQL. |
