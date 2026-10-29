@@ -8,6 +8,10 @@ Welcome to the **Database Creation & Development + MySQL** workshop! This reposi
 | :--- | :---: | :---: |
 | **Eduardo Freitas Fernandes** | [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:eduardo.fernandes@epicje.pt) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardoffernandes/) |
 
+## 📄 Presentation
+
+The workshop slide deck is available in [presentation.pdf](presentation.pdf). It covers database fundamentals, relational modeling, SQL syntax, transactions, and ORM concepts.
+
 ## 🚀 Getting Started
 
 Follow these steps to initialize the database and configure users on your local machine:
